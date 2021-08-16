@@ -9,8 +9,8 @@
 **ファイルの内容**
 
 - 下記の2つは、SteamのワークショップにあるダミーProp付きの設定ファイルと同じです。
- 1. JpTL_MultiSize.XML / Multi Size用の設定ファイル
- 2. JpTL_Normal_OneSize.XML / One Size用の普通の信号機の設定ファイル
+    1. JpTL_MultiSize.XML / Multi Size用の設定ファイル
+    2. JpTL_Normal_OneSize.XML / One Size用の普通の信号機の設定ファイル
 - こちらの2つは、茶色の信号機を街灯の有無で、One Size用に設定しました。
- 1. JpTL_Brown_OneSize.XML / One Size用の茶色の信号機の設定ファイル
- 2. JpTL_BrownP_OneSize.XML / One Size用の茶色の信号機(街灯付)の設定ファイル
+    1. JpTL_Brown_OneSize.XML / One Size用の茶色の信号機の設定ファイル
+    2. JpTL_BrownP_OneSize.XML / One Size用の茶色の信号機(街灯付)の設定ファイル
