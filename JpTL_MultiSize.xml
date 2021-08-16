@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TLRConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+	<PackName>日本の信号機(RHT) - Multi Size</PackName>
+	<OneSize>false</OneSize>
+
+	<!--Be sure to replace "Placeholder" with the prop prefab name for each asset
+	use the Pack Creator Helper window to easily copy prop prefab names-->
+	<Assets>
+
+		<!-- Small Road -->
+		<Asset>
+			<Prefab>810355214.JPTLsubBrown2R_Data</Prefab>
+			<Name>茶色の信号機</Name>
+			<Description>ポールが茶色の信号機</Description>
+			<Type>Small</Type>
+		</Asset>
+		<Asset>
+			<Prefab>810355214.JPTLsubBrownR_Data</Prefab>
+			<Name>茶色の信号機(街灯付)</Name>
+			<Description>ポールが茶色の信号機(街灯付き)</Description>
+			<Type>Small</Type>
+		</Asset>
+		<Asset>
+			<Prefab>2414025775.blankprop_Data</Prefab>
+			<Name>信号機無し</Name>
+			<Description>信号機を非表示</Description>
+			<Type>Small</Type>
+		</Asset>
+
+		<!-- Middle Road -->
+		<Asset>
+			<Prefab>810355214.JPTLsubBrown2R_Data</Prefab>
+			<Name>茶色の信号機</Name>
+			<Description>ポールが茶色の信号機</Description>
+			<Type>Medium</Type>
+		</Asset>
+		<Asset>
+			<Prefab>810355214.JPTLsubBrownR_Data</Prefab>
+			<Name>茶色の信号機(街灯付)</Name>
+			<Description>ポールが茶色の信号機(街灯付き)</Description>
+			<Type>Medium</Type>
+		</Asset>
+
+		<!-- Large Road -->
+		<Asset>
+			<Prefab>810355214.JPTLsubBrown2R_Data</Prefab>
+			<Name>茶色の信号機</Name>
+			<Description>ポールが茶色の信号機</Description>
+			<Type>Large</Type>
+		</Asset>
+		<Asset>
+			<Prefab>810355214.JPTLsubBrownR_Data</Prefab>
+			<Name>茶色の信号機(街灯付)</Name>
+			<Description>ポールが茶色の信号機(街灯付き)</Description>
+			<Type>Large</Type>
+		</Asset>
+
+		<!-- Single Pole -->
+		<Asset>
+			<Prefab>810355214.JPTLsubBrown2R_Data</Prefab>
+			<Name>茶色の信号機</Name>
+			<Description>ポールが茶色の信号機</Description>
+			<Type>Signal Pole</Type>
+		</Asset>
+
+	</Assets>
+
+  <!--Optional-->
+  <Transform>
+    <Position>
+      <x>0</x>
+      <y>-0.1</y>
+      <z>0</z>
+    </Position>
+    <Angle>180</Angle>
+    <Scale>100</Scale>
+  </Transform>
+
+  <DropdownSelectionIndex>
+    <SmallRoads>2</SmallRoads>
+    <MediumRoads>0</MediumRoads>
+    <LargeRoads>0</LargeRoads>
+  </DropdownSelectionIndex>
+  <ForceDefaultSideSignalPole>false</ForceDefaultSideSignalPole>
+</TLRConfig>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TLRConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<PackName>茶色の信号機(街灯付)</PackName>
+	<OneSize>true</OneSize>
+
+	<!--Be sure to replace "Placeholder" with the prop prefab name for each asset
+	use the Pack Creator Helper window to easily copy prop prefab names-->
+	<Assets>
+		<Asset>
+			<Prefab>810355214.JPTLsubBrownR_Data</Prefab>
+			<Type>Main</Type>
+		</Asset>
+
+
+		<Asset>
+			<Prefab>2414025775.blankprop_Data</Prefab>
+			<Type>Mirror</Type>
+		</Asset>
+
+
+		<Asset>
+			<Prefab>810355214.JPTLmainBrownR_Data</Prefab>
+			<Type>Ped Signal</Type>
+		</Asset>
+
+
+		<Asset>
+			<Prefab>810355214.JPTLsubBrownR_Data</Prefab>
+			<Type>Signal Pole</Type>
+		</Asset>
+
+	</Assets>
+
+  <!--Optional-->
+  <Transform>
+    <Position>
+      <x>0</x>
+      <y>-0.1</y>
+      <z>0</z>
+    </Position>
+    <Angle>180</Angle>
+    <Scale>100</Scale>
+  </Transform>
+</TLRConfig>
