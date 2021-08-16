@@ -1,8 +1,12 @@
 **このリポジトリには、Traffic Light Replacer用の設定ファイルがあります。**
 
 - Japanese Traffic Lights(RHT)を、Traffic Light Replacerで使うための設定ファイルです。
-- 詳しい使い方・内容は、Steamのガイドを参照してください。
-- [Steamのガイド](https://steamcommunity.com/sharedfiles/filedetails/?id=2573342778) に移動
+- 現在のTraffic Light Replacerは、**左側通行用(LHT)の信号機には対応**していません。
+    1. 詳しい使い方・内容は、Steamのガイドを参照してください。
+    2. [Steamのガイド](https://steamcommunity.com/sharedfiles/filedetails/?id=2573342778) に移動
+- 設定ファイルとダミーPropの抱き合わせタイプを使う方法は、各ワークショップで確認してください。
+    1. [Multi Size用](https://steamcommunity.com/sharedfiles/filedetails/?id=2572736603)  のワークショップに移動
+    2. [One Size用](https://steamcommunity.com/sharedfiles/filedetails/?id=2572736218)  のワークショップに移動
 
 ---
 
